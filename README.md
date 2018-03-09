@@ -1,5 +1,6 @@
 # Interactive Belly Button Biodiversity
 
+## Live Visualization Link: [Belly Button Bakteria](https://belly-button-bakterias.herokuapp.com)
 
 An interactive dashboard was created to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
